@@ -10,7 +10,7 @@
 - This ordered card rearrange on the screen B at the same time and it reorder the database for future use.
 - Initially five item show on the screen. After scrolling, the all calculation show .
 
-## How you cal starting this application.
+## How you can starting this application.
 
 - Firstly you need to mongodb database username, password and connection url.
 - You need to start both using command 'npm start' backend and frontend side.
