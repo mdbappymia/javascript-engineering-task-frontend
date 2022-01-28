@@ -1,0 +1,48 @@
+.screenA-container {
+  border: 1px solid black;
+  background-color: #e6e6e6;
+  margin: 50px auto;
+}
+.calculation-result-card-container {
+  height: 300px;
+  padding: 10px;
+  overflow-y: scroll;
+}
+.result-card {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 15px;
+  align-items: center;
+  margin: 30px 0;
+}
+.data-input-section {
+  border-top: 1px solid black;
+}
+.see-input-button {
+  border-radius: 20px !important;
+}
+.title-input {
+  background-color: white;
+  padding: 8px;
+  font-size: 1.2rem;
+  width: 80%;
+  outline: none;
+  border: 1px solid black;
+}
+.title-input-area label {
+  width: 80%;
+  height: 80px;
+  padding: 20px !important;
+  border: 1px solid gray;
+}
+.title-input-area label span {
+  font-size: 18px !important;
+}
+.calculate-btn {
+  border-radius: 25px !important;
+}
+.dot {
+  padding: 10px;
+  background-color: gray;
+  margin: 4px;
+}
